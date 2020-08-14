@@ -1,6 +1,6 @@
 # Hi, I'm Brennon Nuckols
 
-<img src="./images/IMG_8525.jpeg" alt="me">
+![](https://github.com/brennuck/brennuck/blob/master/images/IMG_8525.jpeg)
 
 <!--
 **brennuck/brennuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
