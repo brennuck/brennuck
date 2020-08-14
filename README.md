@@ -1,4 +1,5 @@
-### Hi, I'm Brennon Nuckols
+# Hi, I'm Brennon Nuckols
+
 <img src="./images/IMG_8525.jpeg" alt="me">
 
 <!--
