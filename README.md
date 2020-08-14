@@ -1,6 +1,5 @@
 # Hi, I'm Brennon 👨🏻‍💻
 
-![](https://github.com/brennuck/brennuck/blob/master/images/IMG_8525.jpeg)
 <img src="https://github.com/brennuck/brennuck/raw/master/images/IMG_8525.jpeg" alt style="width: 290px" >
 
 <!--
