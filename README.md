@@ -1,6 +1,6 @@
 # Hi, I'm Brennon 👨🏻‍💻
 
-<img src="https://github.com/brennuck/brennuck/raw/master/images/IMG_8525.jpeg" alt style="width: 290px" >
+<img src=https://github.com/brennuck/brennuck/blob/master/images/banner.png style="width:100%" >
 
 <!--
 **brennuck/brennuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
