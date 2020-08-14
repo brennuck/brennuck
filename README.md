@@ -1,4 +1,4 @@
-# Hi, I'm Brennon Nuckols
+# Hi, I'm Brennon
 
 ![](https://github.com/brennuck/brennuck/blob/master/images/IMG_8525.jpeg)
 
