@@ -2,10 +2,12 @@
 
 <img src=https://github.com/brennuck/brennuck/blob/master/images/good%20banner.png style="width:100%" >
 
+## 🔭 About me
+I recently completed a 50-week immersive web development training program through Lambda School learning enough to make me a Software Engineer and now I'm on the hunt for my next big challenge.
+
 ## 🌎 Social
 - <a href="https://bnuckols.com/"> Portfolio </a>
 - <a href="https://www.linkedin.com/in/brennuck/"> LinkedIn </a>
-- <a href="https://drive.google.com/file/d/14dRKdFFl0V6Ff2Gkc1hg24ncXwyptW0o/view?usp=sharing"> Resume </a>
 
 <!--
 **brennuck/brennuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
