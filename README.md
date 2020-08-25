@@ -2,8 +2,8 @@
 
 <img src=https://github.com/brennuck/brennuck/blob/master/images/good%20banner.png style="width:100%" >
 
-## 🔭 About Me
-I recently completed a [50-week immersive web development training program](https://lambdaschool.com), and I'm now on the hunt for my next big challenge.
+<!-- ## 🔭 About Me
+I recently completed a [50-week immersive web development training program](https://lambdaschool.com), and I'm now on the hunt for my next big challenge. -->
 
 ## 🌎 Social
 - &nbsp; <a href="https://bnuckols.com/"> Portfolio </a>
