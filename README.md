@@ -6,7 +6,7 @@
 I recently completed a [50-week immersive web development training program](https://lambdaschool.com), and I'm now on the hunt for my next big challenge. -->
 
 ## 🌎 Social
-<!-- - &nbsp; <a href="https://bnuckols.com/"> Portfolio </a> -->
+- &nbsp; <a href="https://bnuckols.com/"> Portfolio </a>
 - &nbsp; <a href="https://www.linkedin.com/in/brennuck/"> LinkedIn </a>
 
 <!--
