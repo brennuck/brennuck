@@ -1,7 +1,5 @@
 # Hey, I'm Brennon 👋
 
-<img src="https://github.com/brennuck/brennuck/blob/master/images/good%20banner.png" style="width:100%">
-
 ```javascript
 const brennon = {
     role: "Full Stack Software Engineer",
