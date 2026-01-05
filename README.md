@@ -1,25 +1,68 @@
-# Hi, I'm Brennon 👨🏻‍💻
+# Hey, I'm Brennon 👋
 
-<img src=https://github.com/brennuck/brennuck/blob/master/images/good%20banner.png style="width:100%" >
+<img src="https://github.com/brennuck/brennuck/blob/master/images/good%20banner.png" style="width:100%">
 
-<!-- ## 🔭 About Me
-I recently completed a [50-week immersive web development training program](https://lambdaschool.com), and I'm now on the hunt for my next big challenge. -->
+```javascript
+const brennon = {
+    role: "Full Stack Software Engineer",
+    location: "Utah 🏔️",
+    experience: "5+ years building web apps that scale",
+    origin: "Started by hacking Nintendo Wiis 🎮",
+    currentStatus: "🟢 Actively searching for new opportunities"
+};
+```
 
-## 🌎 Social
-- &nbsp; <a href="https://bnuckols.com/"> Portfolio </a>
-- &nbsp; <a href="https://www.linkedin.com/in/brennuck/"> LinkedIn </a>
+## 💻 Tech I Work With
 
-<!--
-**brennuck/brennuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  JavaScript/TypeScript  •  React  •  Node.js  •  Python         │
+│  PostgreSQL  •  GraphQL  •  AWS  •  Serverless  •  Express      │
+│  REST APIs  •  CI/CD Pipelines  •  Prisma  •  Socket.IO         │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project                                                                  | Description                                                                                |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| [**Collab Canvas**](https://github.com/brennuck/collab-canvas)           | Real-time collaborative whiteboard with live cursors, drawing tools, and role-based access |
+| [**Sprout**](https://github.com/brennuck/sprout)                         | AI-powered budgeting app with Bud, a personal finance assistant using OpenAI               |
+| [**Stork**](https://github.com/brennuck/stork)                           | Real-time birth journey updates for expectant parents to share with loved ones             |
+| [**Portfolio Template**](https://github.com/brennuck/portfolio-template) | A clean, customizable dev portfolio — clone it, make it yours                              |
+
+## 📈 Career Highlights
+
+**Carputty** _(2021-2025)_  
+Built auto financing flows that approved customers for **$228.5M+ in available credit**, developed internal CRM tools, led a tranche management system that reduced processing time by **80%**, and created a company-wide design system.
+
+## 🎯 Beyond The Code
+
+```yaml
+currently:
+  reading: "Project Hail Mary"
+  watching: "Suits"
+  listening: "Noah Kahan - Stick Season"
+
+life:
+  roles: ["Software Engineer", "Husband", "Father", "Burrito Connoisseur"]
+  hobbies: ["Running", "Hiking Utah trails", "Cooking"]
+
+sports:
+  nfl: "Denver Broncos 🏈"
+  nba: "Utah Jazz 🏀"
+```
+
+## 📬 Let's Connect
+
+<p>
+  <a href="https://bnuckols.com"><img src="https://img.shields.io/badge/Portfolio-bnuckols.com-1a1a1a?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/brennuck"><img src="https://img.shields.io/badge/LinkedIn-brennuck-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:brennuck@gmail.com"><img src="https://img.shields.io/badge/Email-brennuck@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"My journey started young — hacking Nintendo Wiis and poking around computer terminals — curiosity that turned into a career I never looked back from."</i>
+</p>
