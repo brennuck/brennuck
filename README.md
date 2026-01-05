@@ -58,9 +58,3 @@ sports:
   <a href="https://linkedin.com/in/brennuck"><img src="https://img.shields.io/badge/LinkedIn-brennuck-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:brennuck@gmail.com"><img src="https://img.shields.io/badge/Email-brennuck@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
----
-
-<p align="center">
-  <i>"My journey started young — hacking Nintendo Wiis and poking around computer terminals — curiosity that turned into a career I never looked back from."</i>
-</p>
