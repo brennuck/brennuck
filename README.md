@@ -32,7 +32,7 @@ const brennon = {
 ## 📈 Career Highlights
 
 **Carputty** _(2021-2025)_  
-Built auto financing flows that approved customers for **$228.5M+ in available credit**, developed internal CRM tools, led a tranche management system that reduced processing time by **80%**, and created a company-wide design system.
+Built auto financing flows that approved customers for **$275M+ in available credit**, developed internal CRM tools, led a tranche management system that reduced processing time by **80%**, and created a company-wide design system.
 
 ## 🎯 Beyond The Code
 
