@@ -5,7 +5,6 @@ const brennon = {
     role: "Full Stack Software Engineer",
     location: "Utah 🏔️",
     experience: "5+ years building web apps that scale",
-    origin: "Started by hacking Nintendo Wiis 🎮",
     currentStatus: "🟢 Actively searching for new opportunities"
 };
 ```
